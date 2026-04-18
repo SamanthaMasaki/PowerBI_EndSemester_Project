@@ -292,6 +292,7 @@ RANKX(
 ## 13. Conclusion
 
 This project demonstrates a full BI workflow from raw transactional data to strategic decision support. By combining Power Query transformation, star-schema modeling, DAX-driven KPI design, and interactive dashboard storytelling, the solution exposed meaningful operational patterns and risks.
+The revenue decline and flat demand pattern suggest the need for targeted promotional efforts, while the category concentration and data quality issues highlight operational risks that must be addressed to ensure accurate reporting and sustainable growth.
 
 The analysis indicates three immediate management priorities:
 
